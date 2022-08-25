@@ -7,3 +7,4 @@
 - add miles/km
 - add inch/cm
 - make input accept numbers only
+- make design responsive 
